@@ -1690,7 +1690,8 @@ video {
 
 /* Footer Section */
 .footer-section {
-    background-image: url('./img/footer-bg.jpg');
+    /* background-image: url('./img/footer-bg.jpg'); */
+    background-color: #182540;
     background-size: cover;
     background-position: center;
     color: white;
